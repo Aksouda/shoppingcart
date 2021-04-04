@@ -1,0 +1,7 @@
+#source folders
+/css/*
+/img/*
+/js/*
+*.zip
+/dist
+!style.css
